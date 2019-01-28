@@ -6,7 +6,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.fxml.FXMLLoader;
 
-// This is the main class
+// This is the main class + javafxbuild
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
